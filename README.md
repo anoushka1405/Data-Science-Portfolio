@@ -6,5 +6,16 @@ This repository contains various data science practice files and mini-projects t
 ## Files
 - `Video_Games_Filtering_Sorting.ipynb`: Filtering and sorting video game data based on different criteria like sales and year of release.
 
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/anoushka1405/data-science-practice.git
+2.Install dependencies (if you have a requirements.txt file):
+pip install -r requirements.txt
+
+3.Open the Jupyter Notebook
+
+4.Open any of the notebooks and run the cells to view the results.
+
 ## Contributing
 Feel free to fork this repository and submit pull requests with any new practice files, improvements, or suggestions.
