@@ -5,6 +5,7 @@ This repository contains various data science practice files and mini-projects t
 
 ## Files
 - `Video_Games_Filtering_Sorting.ipynb`: Filtering and sorting video game data based on different criteria.
+- `Titanic Data - Operations on Series.ipynb`: Performing basic operations on series, while also plotting some graphs to draw conclusions.
 
 ## How to Run
 1. Clone the repository:
