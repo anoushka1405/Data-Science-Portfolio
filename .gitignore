@@ -2,3 +2,6 @@ Project_01_Explanatory_Analysis_Movies.ipynb
 06_Anime_Dataset/anime.csv
 06_Anime_Dataset/rating.csv
 .env 
+
+11_importing_and_concatenating_many_files/baby_names_state.csv
+11_importing_and_concatenating_many_files/us_baby_names.csv
